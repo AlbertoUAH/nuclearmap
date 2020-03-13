@@ -38,13 +38,13 @@ cd /home/alberto/ubuntu
 python ./app.py
 
 cd ./nuclearmap.github.io
-git fetch origin
-git reset --hard origin/master
-git pull
-cp ../index.html ./
-git add --all
-git config --global user.email "alberteinstein.al@gmail.com"
-git config --global user.name "AlbertoUAH"
-git commit -m "Commit Inicial"
-git push -u origin master
-./index.html
+#git fetch origin
+#git reset --hard origin/master
+#git pull
+#cp ../index.html ./
+#git add --all
+#git config --global user.email "alberteinstein.al@gmail.com"
+#git config --global user.name "AlbertoUAH"
+#git commit -m "Commit Inicial"
+#git push -u origin master
+#./index.html
