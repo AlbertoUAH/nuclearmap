@@ -5,3 +5,4 @@ Execution instructions:
 
 ./script.bat -c country_name -> if you want to plot coordinates filtered by country.
 
+See wiki for more details
