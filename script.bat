@@ -8,6 +8,12 @@ cd ../u00/app/cassandra/product/apache-cassandra-3.11.5/bin
 TIPO=$1
 PAIS=$2
 
+rm -rf /home/alberto/ubuntu/coordenadas.csv || true
+rm -rf /home/alberto/ubuntu/index.html || true
+
+touch coordenadas.csv
+touch index.html
+
 echo "           _ ._  _ , _ ._"
 echo "         (_ ' ( `  )_  .__)"
 echo "       ( (  (    )   `)  ) _)"
